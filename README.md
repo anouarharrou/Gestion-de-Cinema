@@ -25,7 +25,7 @@ Les Clients peuvent faire une ou plusieurs resérvations des Projections
  - [BD SQL](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://github.com/anouarharrou/Gestion-de-Cinema/blob/main/img/logo.png)
 
 
 Hi 👋 My name is Harrou Anouar
