@@ -60,10 +60,7 @@ CREATE TABLE `clients` (
 --
 
 INSERT INTO `clients` (`id`, `username`, `password`, `email`, `tele`) VALUES
-(1, 'anouar', '309A10093AB7D53341A3B5A46A48FC28DA2A0ED3', 'anouar@gmail.com', 12345),
-(2, 'ayoub', '132B19DE24D66D2AB7D33B39BCF84BB222B9618E', 'ayoub@gmail.com', 612345678),
-(3, 'oumaima', 'EDEB417132B3FA26381D6675EDCE75DBBF6A95C1', 'oumaima@gmail.com', 612345678),
-(24, 'ahmed', 'ahmed', 'ahmed@gmail.com', 612345678);
+(1, 'anouar', '309A10093AB7D53341A3B5A46A48FC28DA2A0ED3', 'anouar@gmail.com', 12345);
 
 -- --------------------------------------------------------
 
