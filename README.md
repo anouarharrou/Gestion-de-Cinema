@@ -20,12 +20,12 @@ L'admin peut aussi exporter la liste des Projections avec le nombre de resérvat
 Les Clients peuvent faire une ou plusieurs resérvations des Projections
 ## Acknowledgements
 
- - [Partie Admin](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Partie Clients](https://github.com/matiassingers/awesome-readme)
- - [BD SQL](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Partie Admin](https://github.com/anouarharrou/Gestion-de-Cinema/tree/main/admin)
+ - [Partie Clients](https://github.com/anouarharrou/Gestion-de-Cinema/tree/main/php)
+ - [BD SQL](https://github.com/anouarharrou/Gestion-de-Cinema/blob/main/cinema.sql)
 
 
-![Logo](https://github.com/anouarharrou/Gestion-de-Cinema/blob/main/img/logo.png)
+![Logo](https://github.com/anouarharrou/Gestion-de-Cinema/blob/main/screen.jpg)
 
 
 Hi 👋 My name is Harrou Anouar
